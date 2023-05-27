@@ -14,3 +14,5 @@ Instalado:
     - pip install nltk
     - python import nltk
     - python nltk.download("stopwords")
+    - pip install sklearn
+    - pip install textacy

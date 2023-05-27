@@ -100,7 +100,7 @@ def segmentate(collection):
   return segmentCollection
 
 def saveToFile(collection):
-  with open('output.json','w',encoding='utf-8') as output:
+  with open('segmentationOutput.json','w',encoding='utf-8') as output:
     jsonfile = json.dumps(collection, ensure_ascii=False)
     output.write(jsonfile)
 
