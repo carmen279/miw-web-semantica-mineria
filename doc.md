@@ -16,3 +16,6 @@ Instalado:
     - python nltk.download("stopwords")
     - pip install sklearn
     - pip install textacy
+    - pip install fasttext
+    - pip install fasttext-wheel
+    - pip install ndjson

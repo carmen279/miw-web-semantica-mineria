@@ -3,17 +3,24 @@ from simhash import Simhash, SimhashIndex
 import spacy
 from nltk.tokenize import TextTilingTokenizer
 from nltk.corpus import stopwords
+import sys
 
 
 def main():
+  negacionista = True
+  if len(sys.argv) > 1:
+    negacionista = sys.argv[1] != 'False'
   print("Loading dataset...")
-  negacionista_articles = loadDataset('dataset.ndjson', True)
+  negacionista_articles = loadDataset('dataset.ndjson',  negacionista)
   print("Removing duplicated articles...")
   negacionista_articles = removeDuplications(negacionista_articles)
   print("Applying TextTiling for segmentation...")
   negacionista_segments = segmentate(negacionista_articles)
   print("Saving output in JSON file...")
-  saveToFile(negacionista_segments)
+  outputName = 'notNegacionistaSegmentationOutput.json'
+  if negacionista:
+    outputName = 'negacionistaSegmentationOutput.json'
+  saveToFile(negacionista_segments, outputName)
 
 def loadDataset(fileName, negacionistas = True):
   with open(fileName, 'r', encoding='utf-8', errors='ignore') as dataset:
@@ -99,8 +106,8 @@ def segmentate(collection):
 
   return segmentCollection
 
-def saveToFile(collection):
-  with open('segmentationOutput.json','w',encoding='utf-8') as output:
+def saveToFile(collection, outputFileName):
+  with open(outputFileName,'w',encoding='utf-8') as output:
     jsonfile = json.dumps(collection, ensure_ascii=False)
     output.write(jsonfile)
 
