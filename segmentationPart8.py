@@ -9,8 +9,7 @@ import ndjson
 articleSegments = {}
 
 def main():
-  #CAMBIAR!!
-  negacionista = True
+  negacionista = False
   if len(sys.argv) > 1:
     negacionista = sys.argv[1] != 'False'
   print("Loading dataset...")
