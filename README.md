@@ -1,4 +1,16 @@
-# Documentación
+# Ejercicio de minería de textos - Web Semántica - MIW - Curso 2022/23
+## Autora: Carmen Rendueles Martínez - UO269689
+
+[texto](#conditional-components)
+[Introducción](#introduccion)
+[Datasets](#datasets)
+[Requisitos previos](#requisitos-previos)
+
+###Introducción
+###Datasets
+###Requisitos previos
+
+
 
 Para hacer los ejercicios: 
 
