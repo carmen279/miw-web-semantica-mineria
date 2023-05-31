@@ -105,3 +105,27 @@ Para la ejecución de este archivo sólo será necesario ejecutarlo en línea de
 En este código se entrena un modelo con los archivos generados en el apartado anterior y este modelo se guarda en el archivo binario `clasificador.bin`. Además, para evaluar sus resultados, se imprime por pantalla la 'Accuracy' del modelo. Este valor se encuentra alrededor de 0.428. Valor que no es demasiado bueno, ya que indica que acertaría menos de la mitad de las clasificaciones, pero que, teniendo en cuenta la baja cantidad de documentos de la colección utilizada para conseguir los clusters y la poca cantidad de entrenamiento del modelo, resulta un valor relativamente bueno. 
 
 ### Apartados 7 y 8
+Para estos apartados, como se indica anteriormente, se pasa a utilizar el dataset contrario, el de las noticias 'no negacionistas'.
+Se ofrece un archivo `segmentationPart8.py` en el cual se ofrece el código desarrollado para los apartados a, b, c, d y e.
+
+
+Para la ejecución de este archivo sólo será necesario ejecutarlo en línea de comandos con `python .\segmentationPart8.py`. Cabe destacar, que este código por defecto se ejecuta con el dataset asignado, pero se puede ejecutar con el contrario con `python .\segmentationPart8.py True`.
+
+
+Este archivo contiene métodos con los diferentes procesos solicitados. Estos métodos son los siguientes:
+- `loadDataset`: Este método carga el dataset solicitado a memoria.
+- `segmentate`: Este método procesa un listado de noticias y realiza las siguientes acciones:
+    - Segmenta la noticia en sentencias usando spaCy.
+    - Une esas sentencias en un único texto separando las sentencias con `\n\n`.
+    - Usa TextTiling sobre el texto obtenido para obtener segmentos temáticamente coherentes.
+    - Añade todos los segmentos a una lista única.
+    - Mantiene un diccionario en el que se mantiene a qué noticia pertenece casa segmento de texto para poder recuperar la noticia original.
+- `classify`: Este método aplica el clasificador `clasificador.bin` obtenido anteriormente y devuelve el listado de etiquetas resultante de la predicción de cada segmento.
+- `saveToFile`: Por último, este método guarda las noticias del dataset ampliadas con las etiquetas generadas en un archivo ndjson, en este caso, al trabajar con textos no negacionistas, llamado `notNegacionistaSegmentationOutput.ndjson`. Este archivo se puede obtener ejecutando el programa pero se ofrece ya en el repositorio.
+
+
+Para continuar con la sección f del apartado 8, se seleccionaron del archivo resultante 10 noticias aleatorias. Para esto, se escogió un número inicial utilizando 'random.org', siendo este el 69 y cogí 10 noticias partiendo de la que se encuentra en esa posición y, por lo tanto, escogiendo las líneas 69 a 78. Después, se leyeron estas noticias y se etiquetaron manualmente. Esto se puede ver en el archivo `randomlyselected.ndjson`. Aquí se van etiquetando las noticias con las etiquetas y después se realiza una estimación de la cantidad de segmentos pertenecientes a cada etiqueta se encuentran. Finalmente se añade junto al campo 'etiquetas' el campo 'etiquetasmanuales', permitiendo la comparación entre las manuales y las dadas por el clsificador.
+
+Por último, para la sección g, se comparan los resultados de ambas etiquetas. Esto se realiza en el archivo `manualClassification.txt`. Aquí, se recopilan los valores predichos y asignados manualmentes para cada noticia y cada etiqueta.
+Primero se comprueba qué porcentaje de coincidencia entre las etiquetas hay para cada noticia y después se calcula la media para obtener el valor de precisión global, para el cual se obtiene 0.377. Valor más bajo que el calculado por el test del clasificador, pero que no se aleja demasiado, por lo que parece tener bastante sentido.
+Después, se calcula la precisión etiqueta por etiqueta, obteniendo los porcentajes generales predichos y manuales para cada etiqueta y calculando la precisión (True Positive (TP) / (True Positive (TP) + False Positive (FP))). Cabe destacar que varias etiquetas no fueron asignadas a ninguna de las noticias por el clasificador, y la mayoría de ellas tampoco manualmente, y, por lo tanto, resultan casos especiales a los que no se puede aplicar la cuenta correctamente.
