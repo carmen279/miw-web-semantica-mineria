@@ -1,0 +1,844 @@
+{"identifier": "https://cincodias.elpais.com/cincodias/2022/07/06/opinion/1657108265_242964.html", 
+"publisher": "Ediciones EL PAÍS S.L.", 
+"date": "2022-07-07", 
+"author": [[{"@type": "Person", "name": "CINCO DÍAS", "url": "https://cincodias.elpais.com/autor/cinco-dias/"}], ["Cinco Días"]],
+ "headline": "¿Estamos ante un cambio de ciclo para la inversión en tecnología?", 
+ "description": "El sector tecnológico es deflacionario por naturaleza y debe seguir siendo un elemento fundamental en la composición de cualquier cartera", 
+ "keywords": ["Opinión", "NASDAQ", "Índices bursátiles", "Inversión financiera", "Bolsa", "Mercados financieros", "Tecnología", "Finanzas", "Ciencia"], 
+"sentencias": [
+__label__ods  ->  
+
+"¿Estamos ante un cambio de ciclo para la inversión en tecnología?.", 
+"Exposición didáctica de ideas, conjeturas o hipótesis, 
+a partir de unos hechos de actualidad comprobados —no necesariamente del día— que se reflejan 
+en el propio texto.",
+"Excluye los juicios de valor y se aproxima más al género de opinión, 
+pero se diferencia de él en que no juzga ni pronostica, sino que sólo formula hipótesis, 
+ofrece explicaciones argumentadas y pone en relación datos dispersosBajo un entorno de inflación 
+elevada situada en el 8,6% en EE UU y 8,1% en Europa, los bancos centrales apuntan a una subida de
+ tipos para frenar el sobrecalentamiento económico.", 
+ "Esto ha tenido un impacto importante en los 
+ mayores índices de referencia americanos, tales como el S&P 500 con un 22% de bajada desde 
+ comienzos del año o el Nasdaq con un 32%.", 
+"Ante esta perspectiva, es lógico preguntarse si la 
+ tecnología seguirá siendo el sector dominante que ha sido durante los últimos 20 años, o si la
+innovación a largo plazo tiene sentido desde un prisma de inversión.",
+"Es importante recordar que el sector tecnológico es deflacionario por naturaleza.", 
+"Hace 50 años las fuerzas deflacionarias más prominentes eran el incremento de la fuerza 
+laboral y el comercio internacional.", 
+"En la actualidad, la tecnología es la mayor palanca para luchar contra la inflación.",
+"¿Y de qué manera ayuda?", 
+"Por un lado, hace los procesos productivos tradicionales más eficientes.", 
+"Con esto incrementamos el nivel de ouput a un margen interesante, 
+    que, en un entorno inflacionario con presión en márgenes, se hace muy relevante.", 
+"Por otro lado, los productos tecnológicos como, por ejemplo, el software reemplazan 
+    a los productos físicos a una fracción del coste y con una gran inelasticidad con respecto al
+    volumen de demanda.", 
+"Si 500.000 usuarios nuevos comenzaran a utilizar la plataforma de Airbnb
+    mañana el incremento de su coste sería marginal.", 
+"Por eso, no es sorprendente ver los resultados del informe que publicó Gartner recientemente,
+    en el que el 78% de los directores financieros más reputados van a mantener o incrementar 
+    el gasto en tecnología hasta pasado el 2023 incluso si la inflación persiste.", 
+"Además, a largo plazo la tecnología no es una opción, sino una necesidad.", 
+"Necesitaremos la tecnología para combatir el cambio climático, para encontrar soluciones
+    a poblaciones cada vez más maduras, desarrollar nuevas tecnologías de la salud,
+    el impacto en el procesamiento del sector alimentario, tecnologías de inteligencia 
+    artificial, avances en la industria aeroespacial, finanzas descentralizadas, innovación 
+    en los procesos de aprendizaje, web 3.0, el metaverso, entre otras muchas.", 
+    "Ahora bien, es interesante entender la razón de las correcciones sufridas mayoritariamente
+    en compañías tecnológicas.", 
+"Ante una subida de tipos y por ende del coste de capital, 
+    el valor intrínseco de las compañías baja.", 
+"El valor intrínseco de una compañía se suele
+    medir por la caja que esa compañía va a generar a lo largo de su vida, descontados al 
+    momento presente.", 
+"Cuanto más alejados en el tiempo, menos valor tienen esos flujos de caja.", 
+"Es por esto que las empresas tecnológicas al tener perfiles de crecimiento 
+    mucho más elevado que compañías tradicionales, sacrificando de manera consciente parte 
+    de su rentabilidad en el corto plazo por crecimiento, trasladan una mayor parte de sus
+    flujos a futuro.", 
+ "Por ejemplo, Amazon tardó más de nueve años desde su creación en 
+    acabar un ejercicio en positivo, aunque ha venido creciendo en sus ventas a cerca de
+    un 30% anual durante los últimos 20 años de manera recurrente y actualmente tiene una
+    capitalización bursátil de más de un trillón de dólares.", 
+ "Es fácil perder el foco cuando hay tanto ruido en los mercados, pero la inversión en
+    tecnología sigue y debería seguir siendo un elemento fundamental en la composición 
+    de cualquier cartera, no solo por su papel fundamental, sino por los retornos que 
+    ofrece a largo plazo.", 
+"Destacan principalmente dos formas de llevar a cabo dicha inversión: a través de
+    los mercados públicos, más expuestos a volatilidades tal como la actual, o a 
+    través de mercados privados con estrategias, tales como la de venture capital 
+    (VC).Aunque con menos volatilidad que los mercados públicos, es necesario 
+    plantearnos en qué situación se encuentra el venture capital actualmente y 
+    el efecto que el entorno actual podría tener.", 
+"Desde el 2018 hasta el primer 
+    trimestre del 2022 las valoraciones en compañías en fases tempranas o early stage
+    se han duplicado, en compañías en fases intermedias o growth se ha multiplicado 
+    por tres veces y para compañías en las fases más tardías o late stage, esa 
+    valoración se ha incrementado casi en ocho veces.", 
+"Uno de los principales motivos del incremento en valoraciones tan pronunciado en
+    las fases tardías es la participación de inversores no tradicionales en estas 
+    etapas en los últimos años.",
+"Estos incluyen agentes tales como hedge funds, private equity, fondos soberanos
+    que invertían típicamente en etapas tardías previo a una salida a Bolsa o venta
+    de la compañía.",
+"Estos inversores representaron el 78% de todo el capital invertido en venture
+    capital en 2021.", 
+"Vemos entonces que el impacto más inmediato y paralelo
+    ocurrirá en estas fases tardías, por su cercanía a los mercados públicos, 
+    y por la inflación que han sufrido sus valoraciones en los últimos años.",
+"Por otro lado, y aunque es difícil asumir que no habrá ningún impacto, 
+    vemos más protegida la parte early stage, por su lejanía con respecto a 
+    estos mercados, su potencial de disrupción y los niveles más moderados de 
+    valoración que hemos visto en los últimos años.", 
+"De esta forma una estrategia de venture capital invertida principalmente en la parte early 
+    stage, y con una estrategia diversificada como la que ofrece un producto de fondo de fondos, 
+    se plantea adecuada no solo por el potencial de mayores retornos sino también por la protección
+    natural que ofrece ante cualquier vaivén del mercado.",
+"En definitiva, la tecnología sigue y seguirá siendo el motor fundamental del cambio.", 
+"Una exposición a través de fondos de venture capital en early stage nos blinda más de los 
+    cambios macroeconómicos que afectan a los mercados con una rentabilidad potencialmente muy 
+    superior y una diversificación óptima.", 
+"Francisco Navas es Director del área Arcano Venture Capital"], 
+    
+    "etiquetasmanuales": { "ods": 1},
+    "etiquetas": {"energiaeolica": 0.1111111111111111, "combustibles": 0.0, "emisionvehiculos": 0.0, "consumohogares": 0.0, "huellaagricultura": 0.2222222222222222, "cumbreclima": 0.4444444444444444, "ods": 0.2222222222222222}}
+
+
+
+
+
+{"identifier": "https://cincodias.elpais.com/cincodias/2022/07/07/extras/1657194414_883772.html", 
+"publisher": "Ediciones EL PAÍS S.L.", "date": "2022-07-11", "author": [[{"@type": "Person", "name": "CINCO DÍAS", "url": "https://cincodias.elpais.com/autor/cinco-dias/"}], ["Cinco Días"]],
+"headline": "José Luis Curbelo: “Queremos ser la entidad verde de referencia en España”",
+"description": "La sociedad estatal diseña operaciones de coinversión con fondos soberanos", 
+"keywords": ["Cofides", "Acuerdos París", "Agenda 2030", "Fondo Europeo Recuperación Covid-19", "Agenda Post-2015", "Pymes", "Coyuntura económica", "Empresas", "Desarrollo sostenible", "Economía", "Medio ambiente"], 
+"sentencias": [
+__label__ods  ->  
+
+"José Luis Curbelo: “Queremos ser la entidad verde de referencia en España”.", 
+"Seguir apoyando la internacionalización de las empresas españolas y contribuir al desarrollo 
+sostenible tanto a nivel nacional como internacional son dos de las aspiraciones de Cofides para 
+los próximos años.", 
+"En un escenario tan convulso como el actual, la sociedad mercantil estatal apuesta por diseñar 
+un futuro mejor, donde la inversión público-privada confluya y se sumen nuevos actores en el 
+mapa de la inversión internacional.", 
+"Su presidente, José Luis Curbelo, desgrana las líneas de actuación de cara al futuro.", 
+"R. ¿Cuáles son los retos y objetivos para los próximos años?", 
+"R. La misión de Cofides está evolucionando hacia el objetivo de contribuir al desarrollo
+sostenible tanto a nivel nacional como internacional, mediante la prestación de servicios 
+financieros.", 
+"La financiación debe apoyarse en recursos adicionales respecto a los del sector privado, 
+la búsqueda de un efecto catalizador sobre la inversión privada y la viabilidad económica y 
+financiera de todas las operaciones.", 
+"En nuestro nuevo plan estratégico identificamos nuestra ambición de ser la entidad verde 
+de referencia del ámbito financiero español.", 
+"Gracias al fondo Fonrec se ha conseguido la sobrevivencia y el mantenimiento del empleo en 
+muchas empresasR. ¿Cuál será el mapa de la economía del futuro?", 
+"¿Quiénes serán los actores principales?", 
+"¿De qué modo se articularán la inversión pública y la privada?", 
+"R. En periodos convulsos como los actuales es necesario reflexionar sobre aspectos que nos 
+permitan a todos salir bien y preparar un mejor futuro.", 
+"La inversión ­pública y la privada están destinadas a colaborar para lograr objetivos comunes 
+que no solo ayuden a la necesaria transformación digital y sostenible de la economía, 
+sino que nos permitan avanzar hacia el cumplimiento de la Agenda 2030 y del Acuerdo de París.",
+
+__label__energiasrenovables -> 
+ "R. ¿Qué expectativas tiene en torno al mundo de las energías renovables y los proyectos climáticos?", 
+ 
+ 
+ __label__ods  ->  
+ "R. Aspiramos a posicionarnos como un actor relevante en la lucha contra el cambio climático.", 
+ "Nuestra estrategia de financiación sostenible se apoya en tres pilares: refuerzo de la cultura 
+ de sostenibilidad, introducción de incentivos para la consecución de logros en la mejora de la 
+ sostenibilidad y el perfeccionamiento del modelo de negocio.", 
+ "R. En menos de un mes termina el periodo de inversión del fondo Fonrec, diseñado para ayudar 
+ a las empresas que han sufrido los efectos devastadores del Covid, ¿qué balance hace?", 
+"R. Hacemos un balance muy satisfactorio y podemos avanzar que cuando a finales de junio podamos 
+dar cifras definitivas de las inversiones comprometidas, comprobaremos un muy alto nivel de 
+ejecución de los mil millones de euros asignados.",
+ "Gracias a estas inversiones se ha conseguido la sobrevivencia y el mantenimiento del empleo 
+ en muchas empresas menores y de autónomos ligados a las anteriores en la cadena de suministro.",
+"La versión impresa de este artículo se publicó el jueves 30 de junio de 2022 en la página 30 del
+ especial La economía del futuro."], 
+"etiquetasmanuales": { "energiasrenovables": 0.1, "ods": 0.9},
+ "etiquetas": {"energiaeolica": 0.4, "combustibles": 0.0, "emisionvehiculos": 0.0, "consumohogares": 0.0, "huellaagricultura": 0.2, "cumbreclima": 0.0, "ods": 0.4}}
+
+
+
+
+
+{"identifier": "https://cincodias.elpais.com/cincodias/2022/07/07/opinion/1657196616_220009.html", 
+"publisher": "Ediciones EL PAÍS S.L.", "date": "2022-07-08", "author": [[{"@type": "Person", "name": "CINCO DÍAS", "url": "https://cincodias.elpais.com/autor/cinco-dias/"}], ["Cinco Días"]], 
+"headline": "Davos con más perspectiva (o cómo restaurar la confianza)", 
+"description": "La erosión de este valor en los dos últimos años ha sido lenta pero corrosiva, y es un reto urgente el reconstruirla", 
+"keywords": ["Opinión", "Foro de Davos", "Confianza consumidores", "Foro Económico Mundial", "Confianza empresarial", "Crisis económica coronavirus covid-19", "Indicadores económicos", "Coronavirus Covid-19", "Crisis económica", "Pandemia", "Coronavirus", "Coyuntura económica", "Virología", "Epidemia", "Enfermedades infecciosas", "Consumidores", "Enfermedades", "Organizaciones internacionales", "Consumo", "Medicina", "Relaciones exteriores", "Economía", "Biología", "Ciencias naturales", "Ciencia"], 
+"sentencias": [
+    
+__label__cumbreclima  ->  
+"Davos con más perspectiva (o cómo restaurar la confianza).", 
+"Exposición didáctica de ideas, conjeturas o hipótesis, a partir de unos hechos de actualidad 
+comprobados —no necesariamente del día— que se reflejan en el propio texto.", 
+"Excluye los juicios de valor y se aproxima más al género de opinión, pero se diferencia de él en 
+que no juzga ni pronostica, sino que sólo formula hipótesis, ofrece explicaciones argumentadas y 
+pone en relación datos dispersosTranscurrido algo más de un mes desde su celebración y con mayor
+perspectiva de análisis, es inevitable pensar que la primera reunión presencial del Foro Económico
+Mundial en Davos tras el paréntesis de dos años provocado por la pandemia de Covid-19 ha 
+resultado ser muy distinta.", 
+"La invasión de Ucrania, la contracción de la economía mundial y los temores por la seguridad 
+del suministro de alimentos y combustible en muchas partes del mundo han agrandado el reto y 
+aumentaron la importancia de las conversaciones que tuvieron lugar en Davos.", 
+"Tras el final de esos intensos días reuniones con líderes de empresas, gobiernos y sociedad civil,
+ he estado reflexionando sobre las principales conclusiones que he extraído del encuentro.", 
+ "Los CEO con los que tuve la oportunidad de hablar plantearon una serie de temas clave que 
+ estaban estrechamente relacionados.", 
+"Primero, la guerra en Ucrania.", 
+"La crisis humanitaria ha ocupado la mente de todos los que estuvimos en Davos.",
+"Encontrar formas para que empresas y empleados ayuden a los refugiados fue un tema recurrente.",
+"Las historias sobre iniciativas y esfuerzos personales para ayudar a millones de ucranianos 
+desplazados por la guerra fueron muy inspiradoras.", 
+"El conflicto también afecta directamente a casi todas las empresas debido a la escasez de materias 
+primas y productos básicos, a la subida de los precios, a las interrupciones en las cadenas de 
+suministro y a la mayor incertidumbre económica causada por la guerra.", 
+"Los CEO están capeando varios temporales en los que deben mitigar los numerosos efectos secundarios
+y terciarios de la guerra.", 
+"En segundo lugar, el clima también fue un asunto protagonista en prácticamente todas las 
+conversaciones.", 
+"En los últimos años, hemos visto cómo el clima ha pasado de situarse en un segundo plano a 
+ocupar el centro del escenario, y en Davos 2022 esa transición y su mayor protagonismo han 
+quedado muy patentes.",
+
+__label__emisiones  ->
+"Ejemplo de ello es la First Movers Coalition (FMC), una asociación público-privada creada en la
+COP26 para descarbonizar los sectores con más emisiones.",
+"Nos encantó ser testigos de la ampliación de la FMC para incluir 50 de las compañías más grandes 
+del mundo y ocho países más.", 
+"Para mí es un orgullo habernos comprometido en Davos a eliminar permanentemente 100.000 toneladas 
+de carbono de la atmósfera, además de nuestro compromiso previo de invertir en combustibles de 
+aviación sostenibles.", 
+
+__label__energiasrenovables  ->
+"Creo que hemos llegado a un punto en el que los CEOs más innovadores y
+audaces están pasando de las palabras a los hechos en materia de clima.", 
+"Estoy entusiasmado por la magnitud de algunas de las inversiones que se están realizando, 
+particularmente en el sector de energías renovables e hidrógeno.", 
+"Creo que hemos entrado definitivamente en una nueva fase del camino hacia la sostenibilidad y 
+eso es emocionante.", 
+
+__label__cumbreclima  ->
+"Obviamente, debemos avanzar más rápido y llegar más lejos, pero ahora sí que siento que hay un 
+mayor sentido de urgencia y determinación.", 
+"Tanto en la COP26, celebrada hace unos meses, como en Davos, vi y escuché con nitidez el 
+compromiso de líderes empresariales y gobiernos.",
+
+__label__consumohogares  ->
+"Un tercer tema que ocupó un lugar destacado 
+fue la seguridad del suministro de alimentos y la estabilidad de los precios.", 
+"La crisis alimentaria mundial no es un riesgo.", 
+"Es una realidad que está sucediendo mientras hablamos.", 
+"El impacto de la guerra en el suministro de trigo y otros productos básicos ya es evidente.", 
+"Todo esto se suma a unos años de graves desastres climáticos que han afectado a los agricultores.",
+"Y las cadenas de suministro se han visto perjudicadas por la pandemia: hay puertos cerrados o que
+funcionan por debajo de su capacidad y el volumen de transporte de mercancías se ha limitado y es
+cada vez más caros.", 
+
+__label__ods  ->
+"Por último, los CEO hablaron sobre las personas.", 
+"En concreto, sobre contratar, motivar y retener a las personas con más talento.", 
+"Mantuve muchas conversaciones sobre el propósito de sus empresas, por qué existe su negocio, 
+cuáles son sus valores y cómo los empleados interiorizan todo eso.", 
+"Y la envergadura de este reto aumenta para muchas compañías que están lidiando con nuevos modelos 
+de trabajo híbridos.", 
+"La pandemia nos enseñó que podemos trabajar de diferentes maneras, pero, mientras los CEO buscan 
+el modelo correcto, seguimos experimentando.", 
+"Otro aspecto relacionado con las personas del que escuché hablar más que nunca en este Davos fue 
+la salud mental.", 
+"Los CEO ahora son mucho más conscientes de su importancia tanto para ellos como para sus empleados.", 
+"Me alegré mucho de escuchar tantas conversaciones sobre un tema que se ha ignorado durante 
+demasiado tiempo.", 
+
+__label__cumbreclima  ->
+"Así que, ¿cuál es mi principal conclusión de este Davos?", 
+"En una palabra: confianza.", 
+"Davos es, sobre todo, una oportunidad para que responsables de empresas, gobiernos, ONG y sociedad
+civil se reúnan para hablar con transparencia y abordar los mayores retos a los que se enfrenta el mundo.", 
+"Para ello, debemos generar más confianza a todos los niveles y confiar en los demás y en las instituciones que ayudarán a 
+diseñar y ofrecer soluciones a problemas actuales y futuros.", 
+"La erosión de la confianza ha sido lenta pero corrosiva, y tenemos que aprovechar todas las 
+oportunidades que se nos brinden para restaurarla y reconstruirla.", 
+"Rich Lesser es Presidente global de BCG"], 
+
+"etiquetasmanuales": { "emisiones": 0.1, "cumbreclima": 0.6, "ods": 0.15, "consumohogares": 0.1, "energiasrenovables": 0.05},
+"etiquetas": {"energiaeolica": 0.125, "combustibles": 0.0, "emisionvehiculos": 0.0, "consumohogares": 0.0, "huellaagricultura": 0.5, "cumbreclima": 0.0, "ods": 0.375}}
+
+
+
+
+
+{"identifier": "https://cincodias.elpais.com/cincodias/2022/07/08/companias/1657293188_495920.html", 
+"publisher": "Ediciones EL PAÍS S.L.", 
+"date": "2022-07-08", "author": [[{"@type": "Person", "name": "Marimar Jiménez", "url": "https://cincodias.elpais.com/autor/marimar-jimenez/"}], ["Marimar Jiménez"]], 
+"headline": "011h, la constructora de los fundadores de Privalia, capta 25 millones", 
+"description": "La compañía apuesta por una construcción más sostenible. En la ronda de financiación han participado Redalpine, Seaya Andromeda, Breega, Foundamental y A7O Proptech", 
+"keywords": ["Renta Corporación", "Aedas Homes", "Seaya Ventures", "Castlelake", "Arquitectura sostenible", "Promotoras", "Bioconstrucción", "Vivienda", "Fondos inversión", "Mercados financieros", "Construcción", "Arquitectura", "Ciudades sostenibles", "Empresas", "Desarrollo urbano", "Desarrollo sostenible", "Economía", "Urbanismo", "Industria", "Medio ambiente", "Finanzas"], 
+"sentencias": [
+    
+__label__ods  ->
+"011h, la constructora de los fundadores de Privalia, capta 25 millones.", 
+"La constructora 011h, creada en 2020 por los fundadores de Privalia, Lucas Carné y José Manuel 
+Villanueva, ha cerrado una ronda de financiación de 25 millones, en una operación liderada por 
+Redalpine y que ha contado también con la participación del nuevo fondo de impacto Seaya Andromeda 
+y de Breega, entre otros.", 
+"Los inversores iniciales, incluyendo a Foundamental y A/O Proptech, también han participado en la 
+transacción, reforzando su apuesta por la compañía.  ", 
+"La compañía se ha propuesto liderar y acelerar la transformación sostenible del sector de la 
+construcción.", 
+
+__label__huellacarbono  ->
+"Quieren crear un mundo «más sostenible» gracias al desarrollo de edificios neutros en carbono, 
+según explica su cofundador y coCEO Villanueva.", 
+"Todo ello mediante la industrialización y digitalización del proceso de diseño y construcción, 
+junto a la adopción de principios y materiales sostenibles y circulares, como la madera certificada”,
+según explican.", 
+
+__label__ods  ->
+"El capital captado permitirá a la compañía impulsar su crecimiento, seguir evolucionando su 
+plataforma digital y el sistema constructivo, así como reforzar su red de partners.", 
+"También planean utilizarlo para incrementar su equipo y reforzar los perfiles tecnológicos, 
+hasta superar las 100 personas en los próximos meses.   ", 
+"«Si el ritmo de crecimiento urbano global continua su ritmo actual, se necesitará construir una 
+ciudad del tamaño de Nueva York cada mes durante los próximos 40 años.", 
+"Esto es insostenible con el modelo actual debido a la baja productividad del sector y su elevada 
+contribución a las emisiones de CO2», sostiene Carné, el otro cofundador y coCEO.", 
+"Por su parte, el director de Operaciones de 011h, José Ojeda, defiende que en 2022 ya estamos 
+muy por delante de los objetivos europeos de descarbonización del sector fijados para 2030 y 
+cerca del objetivo de cero emisiones de 2050.", 
+"La entrada de nueva financiación nos permite acelerar el desarrollo de una plataforma 
+escalable que permita también construir más rápido, de manera fiable, y a un precio asequible”.", 
+"Desde la constructora explican que la industria de la construcción utiliza hoy métodos artesanales
+ basados en mano de obra que es cada vez más escasa y menos cualificada, a la vez que emplea 
+ materiales no sostenibles como el hormigón y el acero.", 
+ "«Esto ha hecho que la construcción residencial se haya vuelto costosa y difícil de escalar.", 
+
+  __label__emisiones  ->
+ "Pero además, los edificios son uno de los principales causantes del cambio climático, generando 
+ alrededor del 40% de las emisiones globales de CO2».", 
+
+  __label__ods  ->
+ "Frente a ello, 011h propone un sistema constructivo basado en componentes «que consigue 
+ estandarizar y digitalizar el proceso de construcción para que sea repetible, fiable y escalable, 
+ pero preservando al mismo tiempo la flexibilidad en el diseño».  ", 
+ "011h, conjuntamente con Renta Corporación, ha finalizado la construcción de Life Habitat, 
+ un edificio sostenible residencial en altura realizado con un sistema industrializado y 
+ digitalizado de componentes.", 
+
+  __label__emisiones  ->
+ "Con este proyecto, situado en L’Hospitalet de Llobregat, 011h asegura haber reducido más del 
+ 90% de las emisiones de CO2 incorporado (en comparación al método convencional de construcción) 
+ y acortado los plazos de edificación en un 35%.  ", 
+
+  __label__ods  ->
+ "La compañía está ahora trabajando con Aedas en la construcción de Fioresta, un edificio de 51 
+ viviendas situado en San Juan de Alicante, Valencia.  ", 
+ "La constructora asegura que ya cuenta con nuevos proyectos en cartera para construir 100 nuevas 
+ viviendas sostenibles en 2022, y que para 2023 prevé doblar esa cifra."], 
+
+"etiquetasmanuales": { "emisiones": 0.15, "ods": 0.7, "huellacarbono": 0.15},
+"etiquetas": {"energiaeolica": 0.2, "combustibles": 0.0, "emisionvehiculos": 0.0, "consumohogares": 0.0, "huellaagricultura": 0.2, "cumbreclima": 0.0, "ods": 0.6}}
+
+
+
+
+
+{"identifier": "https://cincodias.elpais.com/cincodias/2022/07/08/opinion/1657283610_292709.html", 
+"publisher": "Ediciones EL PAÍS S.L.", "date": "2022-07-11", "author": [[{"@type": "Person", "name": "CINCO DÍAS", "url": "https://cincodias.elpais.com/autor/cinco-dias/"}, {"@type": "Person", "name": "José Luis de Mora", "url": "https://cincodias.elpais.com/autor/jose-luis-de-mora-gil-gallardo/"}], ["Cinco Días", "José Luis De Mora"]], 
+"headline": "No haga promesas sobre cambio climático que no pueda cumplir", 
+"description": "El papel de la industria financiera en la protección del clima es esencialmente la asignación eficiente de capital. Y ese es un juego de incentivos", 
+"keywords": ["Opinión", "Inversión financiera", "Bolsa", "Cambio climático", "Fondos inversión", "Mercados financieros", "Problemas ambientales", "Medio ambiente", "Finanzas"], 
+"sentencias": [
+ __label__ods  ->
+ "No haga promesas sobre cambio climático que no pueda cumplir.", 
+"Exposición didáctica de ideas, conjeturas o hipótesis, a partir de unos hechos de actualidad 
+comprobados —no necesariamente del día— que se reflejan en el propio texto.", 
+"Excluye los juicios de valor y se aproxima más al género de opinión, pero se diferencia de él en 
+que no juzga ni pronostica, sino que sólo formula hipótesis, ofrece explicaciones argumentadas 
+y pone en relación datos dispersosLos CEO de las empresas y los gobiernos se han apresurado a 
+realizar promesas para poder alcanzar el objetivo de emisiones cero neto para 2050.", 
+"Se trata de una actitud admirable, pero en realidad, ¿cuántos de esos CEO y líderes gubernamentales
+ seguirán en sus puestos actuales en 2050?", 
+ "Probablemente ninguno.", 
+ "Las promesas son fáciles de hacer cuando, en realidad, se trata de un recurso cómodo y gratuito 
+para demostrar buena voluntad, sabiendo que, cuando llegue el momento de descubrir la vaciedad de 
+las mismas, la responsabilidad ya habrá pasado a otra persona.", 
+"¿Cuántas de las empresas y gobiernos que han hecho promesas de alcanzar el objetivo de cero neto 
+han proporcionado detalles sobre el camino a seguir hasta 2050?", 
+"No muchos.", 
+"Porque también será, eventualmente, el problema de otra persona.", 
+"Las personas somos criaturas simples; hacemos lo que se nos incentiva a hacer.", 
+"Si queremos abordar un problema, como el cambio climático, debemos abordar los incentivos.", 
+"Esto es algo en lo que la industria financiera ha estado enredada hasta ahora.", 
+"Ha estado demasiado ocupada haciendo promesas de las que serán responsables otras personas; 
+la próxima generación.", 
+"Algunas de esas promesas incluían el cero neto, y que los inversores podrían marcar una diferencia 
+tangible a través de fondos verdes.", 
+"Hay algo de real en esto, pero también mucho lavado verde y oportunismo.", 
+"El año pasado encuestamos a casi 2.500 de nuestros miembros, de los cuales solo el 40% dijo que 
+ellos/su organización actualmente incorporan el riesgo climático en su análisis.", 
+"Esperábamos que un año después este porcentaje hubiera mejorado, pero las culturas cambian 
+lentamente.", 
+"Existen muchos responsables de ASG que fueron jefes globales de otra cosa hace unos años, y 
+cuyos currículos tienen poca experiencia en sostenibilidad.", 
+"No debemos criticar injustamente a la industria financiera.", 
+"Algunos podrían decir que se está poniendo al día con el clima después de décadas de inacción, 
+y ciertamente se han producido mayores esfuerzos en los últimos años.", 
+"Sin embargo, existe el peligro de que ponerse al día implique hacer promesas sobre el clima a 
+los clientes, los reguladores y las generaciones futuras que, tal vez, no sea posible cumplir.", 
+"Las finanzas deben hacer todo lo que puedan, pero no prometer todo lo que no puedenCiertamente, 
+las finanzas no deberían permanecer en un segundo plano cuando se trata de sostenibilidad, 
+pero también debemos ser realistas.", 
+"El papel de las finanzas en la lucha contra el cambio climático es esencialmente la asignación 
+eficiente de capital.", 
+"Y ese es un juego de incentivos.", 
+"Como industria, debemos encontrar la mejor manera de invertir capital para generar prosperidad 
+económica y social.", 
+"Hasta ahora, la asignación de capital había ignorado en gran medida la externalidad del cambio 
+climático; decidiendo consciente o inconscientemente que a corto plazo no era un problema y que 
+a largo plazo era el problema de otra persona.", 
+"Si bien algunas jurisdicciones, como la UE, han tratado de intervenir con regulaciones que 
+corrigen el mercado, postergar la acción climática del sector financiero a nivel mundial no 
+puede continuar.", 
+"Se deben tomar medidas ahora.", 
+"El mundo de las finanzas debe hacer todo lo que esté a su alcance para asignar capital de 
+manera eficiente y enfrentar el cambio climático, pero no debe generar más expectativas de las 
+que pueda realmente alcanzar.", 
+"Los inversores necesitan datos sobre el clima actualizados, consistentes, comparables y materiales, 
+pero todavía no los tienen disponibles.", 
+"La petición de organizaciones como la Taskforce on Climate-related Financial Disclosures (TCFD), 
+la Sustainability Accounting Standards Board (SASB) y la International Financial Reporting Standards 
+Foundation para disponer de datos verificados y materiales sobre el clima ayudarán, pero los 
+inversores deben interactuar y comprometerse con las empresas para asegurarse de que los datos 
+que necesitan estén disponibles.", 
+"Esto significa exigir, de manera consistente y continuada, por esos datos climáticos veraces y 
+materiales.", 
+"En última instancia, los gobiernos deben llevar a cabo el trabajo más complejo sobre el clima.", 
+"Tienen que establecer los incentivos para las personas y las industrias.", 
+"Esto, de forma coordinada, logrará el mayor impacto en el cambio climático.", 
+
+ __label__consumohogares ->
+"Por ejemplo, un precio global del carbón podría ser un incentivo que cambiaría los comportamientos.",
+
+ __label__huellacarbomo  ->
+"Si bien será desafiante y políticamente impopular para los gobiernos y los reguladores, 
+los inversores deben dar apoyo a este tipo de decisiones y abogar de manera consistente y continua 
+por un precio para el carbono.", 
+
+ __label__ods  ->
+"La industria de la inversión también tiene un papel clave que desempeñar para ayudar a las empresas
+ a estandarizar los informes de sostenibilidad, mejorar su divulgación y reevaluar sus incentivos de
+  compensación.", 
+  "Un reciente estudio mostró que solo 38 empresas del ranking Fortune 100 divulgan métricas de
+   compensación vinculadas a objetivos ASG.", 
+"Alrededor del 15% de estos objetivos se ocupan de cuestiones ambientales y, si se incluye una 
+métrica ASG en los incentivos de pago, por lo general solo constituye una pequeña parte de la 
+compensación total.", 
+"Incentivos más significativos vinculados a acciones sobre las promesas de cumplir con el objetivo 
+cero neto para 2050 serían más efectivos para impulsar el cambio.", 
+"Los inversores deben entender que sus fondos y planes de pensiones ASG pueden representar un paso 
+en la dirección correcta, pero no van a salvar el mundo.", "Sus acciones sobre el terreno como 
+consumidores y votantes pueden tener un impacto mucho mayor.", "Por ejemplo, si dejan de invertir 
+en una empresa que es mala para el clima, alguien en algún otro lugar tomará su relevo y sí lo hará.", 
+
+ __label__consumohogares  ->
+"Sin embargo, si optan por opciones alternativas, por ejemplo, en la forma en que viven (energía, 
+alimentos, transporte con menor huella de carbono) y cambian la forma en que votan (votar por la 
+acción climática), no habrá un nuevo consumidor o un nuevo votante para reemplazarlos.", 
+"En consecuencia, sus elecciones tendrán un impacto más importante en el mundo real.", 
+"Las inversiones siempre reflejan únicamente las decisiones personales de los consumidores y los 
+votantes.",
+"Al mirar hacia el futuro, debemos reconocer que existen segmentos de la sociedad que pueden tener 
+un mayor impacto sobre el clima que la propia industria financiera.", 
+
+ __label__ods  ->
+"Nuestra industria debe tener cuidado de no prometer demasiado, pero sin duda debe continuar 
+desempeñando su papel (nada despreciable) y abogar por el cambio climático dónde y cómo pueda.", 
+"Matt Orsagh/ José Luis de Mora son Director sénior de Política de Mercados de Capital en CFA 
+Institute/ Presidente de CFA Society Spain"],
+
+"etiquetasmanuales": { "consumohogares": 0.15, "ods": 0.8, "huellacarbono": 0.05},
+"etiquetas": {"energiaeolica": 0.0, "combustibles": 0.0, "emisionvehiculos": 0.0, "consumohogares": 0.0, "huellaagricultura": 0.5555555555555556, "cumbreclima": 0.0, "ods": 0.4444444444444444}}
+
+
+
+
+
+{"identifier": "https://cincodias.elpais.com/cincodias/2022/07/08/opinion/1657295486_948517.html", 
+"publisher": "Ediciones EL PAÍS S.L.", 
+"date": "2022-07-09", "author": [[{"@type": "Person", "name": "CINCO DÍAS", "url": "https://cincodias.elpais.com/autor/cinco-dias/"}], ["Cinco Días"]], 
+"headline": "Un catalizador para ecologizar el sistema financiero", 
+"description": "El BCE está trabajando para reducir la huella de carbono de su cartera y animar a los bancos a gestionar mejor riesgos climáticos y medioambientales", 
+"keywords": ["Opinión", "BCE", "Bancos", "Cambio climático", "Unión Europea", "Organizaciones internacionales", "Europa", "Problemas ambientales", "Relaciones exteriores", "Banca", "Finanzas", "Medio ambiente"], 
+"sentencias": [
+ __label__huellacarbono  ->    
+"Un catalizador para ecologizar el sistema financiero.", 
+"Exposición didáctica de ideas, conjeturas o hipótesis, a partir de unos hechos de actualidad 
+comprobados —no necesariamente del día— que se reflejan en el propio texto.", 
+"Excluye los juicios de valor y se aproxima más al género de opinión, pero se diferencia de él en 
+que no juzga ni pronostica, sino que sólo formula hipótesis, ofrece explicaciones argumentadas y 
+pone en relación datos dispersosEl BCE está adoptando medidas para reducir la huella de carbono 
+de su cartera y animar a los bancos a gestionar mejor los riesgos climáticos y medioambientales.", 
+
+__label__ods  ->    
+"En el marco de nuestro mandato, estamos incorporando consideraciones climáticas en nuestra política 
+monetaria y en la supervisión bancaria.", 
+"El cambio climático es importante para los bancos centrales.", 
+"No solo es una amenaza existencial para la civilización, sino que también plantea graves riesgos 
+para la economía.", 
+"Las inundaciones, las tormentas y los incendios descontrolados son cada vez más frecuentes.", 
+"Estos fenómenos meteorológicos extremos causan daños en las infraestructuras, arruinan cosechas y 
+provocan aumentos de los precios de los alimentos.", 
+"Para asegurar un futuro habitable, la Unión Europea se ha comprometido a alcanzar la neutralidad 
+climática en 2050, lo que requerirá enormes inversiones e innovación, e influirá en la inflación 
+durante la fase de transición.", 
+"También hace innecesario parte del stock de capital y crea riesgos financieros.", 
+"En consecuencia, el BCE no puede ignorar el cambio climático, ya que afecta directamente a la 
+estabilidad de precios y, por lo tanto, es clave para su mandato primordial.", 
+"También genera riesgos financieros, que son importantes tanto para la gestión de riesgos de sus 
+propias operaciones, como para la supervisión bancaria.", 
+"Asimismo, dado que el cambio climático es una prioridad para los legisladores europeos, 
+el BCE debe tenerlo en cuenta en relación con su objetivo de apoyar las políticas económicas 
+generales de la Unión Europea, sin perjuicio del objetivo de estabilidad de precios.", 
+"De este modo, el BCE puede, dentro de su mandato, actuar como catalizador para la ecologización 
+del sistema financiero, apoyar el desarrollo de mercados de capital verdes, que son necesarios para 
+financiar la transición a una economía baja en carbono, y asegurar que los bancos tengan debidamente 
+en cuenta los riesgos climáticos en sus decisiones de concesión de préstamos.", 
+"Esta semana, el banco presentó el primer hito para la incorporación de consideraciones climáticas 
+en su política monetaria.", 
+"Una medida importante se refiere a nuestras compras de activos del sector privado.", 
+"Hasta ahora, la cartera de bonos corporativos del BCE se ha guiado por la neutralidad de mercado 
+y, en consecuencia, refleja el universo de bonos existente.", 
+
+__label__huellacarbono  ->    
+"Sin embargo, son las empresas de sectores intensivos en carbono, en particular, las que emiten 
+este tipo de bonos.", 
+"Esto ha propiciado un sesgo de carbono en nuestra cartera y una acumulación de riesgos climáticos 
+en nuestro balance.", 
+
+__label__ods  ->    
+"Para reducir estos riesgos comenzaremos a reorientar las reinversiones de las amortizaciones de 
+los bonos corporativos que vayan venciendo –unos 30.000 millones de euros cada año– hacia activos 
+emitidos por empresas con mejor comportamiento climático.", 
+"Con ello, nuestras tenencias de bonos corporativos se situarán gradualmente en una senda compatible
+ con los objetivos del Acuerdo de París y de neutralidad climática de la UE.Asimismo, limitaremos 
+ la proporción de activos de empresas intensivas en carbono que los bancos pueden aportar como 
+ garantía para obtener financiación en nuestras operaciones.", 
+ "En el futuro, solo aceptaremos como garantía activos de empresas y de deudores que cumplan las 
+ normas de información sobre sostenibilidad de la UE.Estas medidas tienen dos efectos.", 
+
+ __label__emisiones  ->    
+ "Por un lado, reducen nuestros propios riesgos financieros asociados al cambio climático y, por 
+ otro, animan a los emisores de bonos a mejorar su divulgación de información y a reducir sus 
+ emisiones de carbono.", 
+
+ __label__ods  ->    
+ "Esto, en última instancia, puede contribuir a orientar el capital para apoyar la transición verde.", 
+ "El cambio climático también tiene un papel destacado en nuestra actividad de supervisión.", 
+ "En los últimos años hemos comenzado a estudiar con mucho más detalle cómo el cambio climático 
+ afecta a los bancos que supervisamos.", 
+ "Desde que aclaramos nuestras expectativas supervisoras en 2020, hemos estado animando a los bancos
+  a que mejoren su gestión de los riesgos climáticos y medioambientales y la información que divulgan
+  al respecto.", 
+
+__label__emisiones  -> 
+"Como parte de estos esfuerzos, hemos llevado a cabo una prueba de resistencia climática pionera, 
+de carácter desagregado, y hemos llegado a la conclusión de que tres de cada cinco bancos aún no 
+disponen de un marco de pruebas de resistencia climática; solo uno de cada cinco tiene en cuenta 
+los riesgos climáticos al conceder préstamos; la mayoría de los bancos depende considerablemente de 
+datos basados en indicadores aproximados para cuantificar las emisiones de sus clientes; y, en 
+términos agregados, la mitad de sus ingresos proviene actualmente de grandes emisores de gases de 
+efecto invernadero.", 
+
+ __label__ods  -> 
+"Esto puede ser rentable hoy, pero no en el futuro.", 
+"Por lo tanto, seguiremos recordando a los bancos que deben dar pasos decisivos para subsanar estas 
+deficiencias y prepararse para una transición a tiempo a una economía neutra en carbono, a la vez 
+que deben interactuar estrechamente con sus clientes.", 
+"Todos los participantes en los mercados financieros tendrán que prepararse para la transición 
+verde y afrontar los riesgos resultantes.", 
+"Nuestra prueba de resistencia climática demuestra, una vez más, que los bancos deben actuar de 
+forma audaz y urgente para gestionar mejor los riesgos derivados del cambio climático.", 
+
+ __label__emisiones  -> 
+"Nuestras actuaciones de política monetaria no solo reducirán nuestras propias exposiciones a esos 
+riesgos, sino que también animarán a las empresas y a los bancos a ser más transparentes sobre sus 
+emisiones de carbono y, en última instancia, a reducirlas.", 
+
+ __label__ods  -> 
+"Estos esfuerzos contribuirán a que nuestro sistema financiero resista mejor las crisis climáticas 
+y medioambientales y a que esté mejor preparado para la transición verde.", 
+"Aún queda mucho trabajo por hacer y este solo es el comienzo de un largo viaje.", 
+"Aunque las medidas del BCE no pueden sustituir a una actuación ambiciosa y decidida de los 
+Gobiernos y los parlamentos, tenemos el deber de hacer cuanto esté en nuestras manos dentro de 
+nuestro mandato, y así lo haremos.", 
+"Frank Elderson/ Isabel Schnabel son Vicepresidente del Consejo de Supervisión del BCE/ Miembro 
+del Comité Ejecutivo del BCE"], 
+
+"etiquetasmanuales": { "huellacarbono": 0.2, "ods": 0.55, "emisiones": 0.25},
+"etiquetas": {"energiaeolica": 0.2, "combustibles": 0.0, "emisionvehiculos": 0.0, "consumohogares": 0.0, "huellaagricultura": 0.3, "cumbreclima": 0.0, "ods": 0.5}}
+
+
+
+
+
+{"identifier": "https://cincodias.elpais.com/cincodias/2022/07/12/opinion/1657631699_766365.html", 
+"publisher": "Ediciones EL PAÍS S.L.", "date": "2022-07-13", "author": [[{"@type": "Person", "name": "Gina Chon", "url": "https://cincodias.elpais.com/autor/gina-chon/"}], ["Gina Chon"]], 
+"headline": "La resiliencia climática de BlackRock se enfrenta a una prueba política", 
+"description": "Su defensa de la inversión verde podría volverse en su contra si los escépticos republicanos ganan los comicios", 
+"keywords": ["Opinión", "BlackRock", "Gestoras fondos", "Auditoría", "Fondos inversión", "Mercados financieros", "Empresas", "Economía", "Medio ambiente", "Finanzas"], 
+"sentencias": [
+
+__label__ods  -> 
+"La resiliencia climática de BlackRock se enfrenta a una prueba política.", 
+"BlackRock les dice a las empresas que se vayan preparando para el cambio climático.", 
+"El gestor de activos de 10 billones de dólares tendría que aplicarse el cuento.", 
+"Si los vientos políticos en Estados Unidos cambian, como parece cada vez más probable, 
+es el jefe de BlackRock, Larry Fink, quien podría estar a punto de quemarse.", 
+"El calentamiento global se ha convertido en una cuestión más partidista desde 2020, cuando Fink, 
+de tendencia demócrata, advirtió a los ejecutivos sobre una próxima reasignación de capital basada 
+en el riesgo climático.", 
+"Los republicanos, desde el senador Ted Cruz hasta el representante Patrick McHenry, han arremetido 
+contra las empresas financieras woke.", 
+"El partido [Demócrata] no puede hacer mucho mientras esté en minoría en el Congreso.", 
+"Pero las elecciones de noviembre, en las que hay en juego centenares de escaños, podrían convertir 
+un incordio en una amenaza real.", 
+"Ya hay proyectos de ley en marcha.", 
+"Uno de ellos exigiría a los asesores de inversiones que den prioridad a la rentabilidad financiera 
+sobre los objetivos medioambientales.", 
+"Otro exigiría a los gestores de activos que voten en las reuniones de las empresas solo según las 
+instrucciones de sus inversores, en lugar de seguir sus propios principios, algo a lo que BlackRock 
+ha dado su visto bueno, pero que va aplicando gradualmente.", 
+"Además de la legislación, los comités dirigidos por los republicanos podrían emitir citaciones y 
+convocar a los ejecutivos, Fink incluido, a extenuantes vistas públicas.", 
+"Los enemigos de BlackRock no solo residen en Washington.", 
+"Algunos estados se están volviendo más exigentes con las empresas que gestionan sus fondos de 
+pensiones.", 
+"En Texas, una nueva ley prohíbe la inversión estatal en empresas que boicoteen a las compañías 
+de combustibles fósiles.", 
+"BlackRock, entre cuyos clientes se encuentra el sistema de jubilación de profesores de Texas, 
+de 200.000 millones de dólares, está presionando para convencer al estado de la Estrella Solitaria 
+de que ellos no siguen esa política, según Reuters.", 
+"Es cierto que BlackRock es tan grande que incluso Texas representa una parte pequeña del total.", 
+"La empresa de Fink registró un aumento anual del 6% en los activos de sus clientes en el primer 
+trimestre de 2022, lo que equivale a más de 500.000 millones de dólares.", 
+"Pero casi 20 estados tienen leyes o están estudiando planes para limitar los negocios con compañías 
+que se considera que tienen agendas sociales, según información de Reuters.", 
+"Florida, con un fondo de pensiones estatal de 200.000 millones de dólares, también tiene a 
+BlackRock en el punto de mira, al menos indirectamente, a través de una campaña del gobernador 
+Ron DeSantis contra las corporaciones woke.", 
+"Fink trata de parecer moderado, admitiendo que aún son necesarias las fuentes de energía 
+tradicionales y comprometiéndose a rechazar las propuestas de los accionistas que microgestionan 
+las empresas.", 
+"Sin embargo, pisa una línea muy fina, ya que la empresa se arriesga a encender las críticas 
+al otro lado del pasillo.", 
+"La magnitud de BlackRock hace que sus opiniones sean demasiado grandes para ser ignoradas, 
+y eso es ahora un riesgo además de una ventaja."], 
+
+"etiquetasmanuales": { "ods": 1 },
+"etiquetas": {"energiaeolica": 0.4, "combustibles": 0.0, "emisionvehiculos": 0.0, "consumohogares": 0.0, "huellaagricultura": 0.2, "cumbreclima": 0.0, "ods": 0.4}}
+
+
+
+
+
+{"identifier": "https://cincodias.elpais.com/cincodias/2022/07/13/companias/1657704538_792426.html", 
+"publisher": "Ediciones EL PAÍS S.L.", "date": "2022-07-13", "author": [[{"@type": "Person", "name": "Javier Fernández Magariño", "url": "https://cincodias.elpais.com/autor/javier-fernandez-magarino/"}], ["Javier Fernández Magariño"]], 
+"headline": "Técnicas Reunidas gana la ingeniería para un ciclo combinado de 910 MW en Reino Unido", 
+"description": "La central eléctrica, para SSE Thermal y Equinor, estará dotada con tecnología de captura de carbono", 
+"keywords": ["Técnicas Reunidas", "Reino Unido", "Europa occidental", "Empresas", "Europa", "Economía"], 
+"sentencias": [
+__label__huellacarbono  -> 
+"Técnicas Reunidas gana la ingeniería para un ciclo combinado de 910 MW en Reino Unido.", 
+"Recreación de la planta con recuperación de carbono en la localidad escocesa de Peterhead.", 
+"Las compañías SSE Thermal y Equinor han elegido los servicios de ingeniería de Técnicas Reunidas 
+para el diseño de una central eléctrica de ciclo combinado en Reino Unido dotada con un sistema de 
+captura de carbono.", 
+"La española trabajará en consorcio con Mitsubishi Heavy Industries y Worley.", 
+"La instalación está proyectada en la localidad escocesa de Peterhead y tendrá una capacidad 
+de generación 910 megavatios (MW) de electricidad.", 
+
+__label__ods  -> 
+"Está previsto que el equipo de ingenieros de Técnicas Reunidas trabaje desde el centro tecnológico 
+que la compañía tiene en Madrid.", 
+"Las promotoras buscan tener la planta operativa en 2027.", 
+"Técnicas ha eludido ofrecer información económica sobre su contrato mientras que la inversión 
+estimada en la central alcanza los 2.200 millones de libras (2.605 millones de euros) durante el 
+desarrollo, la construcción y los primeros 25 años de su vida operativa.", 
+
+__label__emisiones  -> 
+"El sistema de captura de carbono, explica esta mañana la ingeniería, está llamado a neutralizar 
+las emisiones de este ciclo combinado alimentado con gas natural.", 
+"La previsión es que se eliminen 1,5 millones de toneladas de emisiones de CO2 al año, 
+que será almacenado en pocos del Mar del Norte.", 
+
+__label__energiasrenovables  -> 
+"La planta, pionera en Escocia, está llamada a cubrir la intermitencia de generación de las energías
+renovables.", 
+
+__label__ods  -> 
+"Será conectada a la infraestructura de transporte y almacenamiento de CO2 del “clúster” industrial
+escocés, apoyando el objetivo del Reino Unido de alcanzar las emisiones netas cero en 2050.
+La empresa que preside Juan Lladó, con larga experiencia en el mercado británico, ha sido seleccionada 
+como Contratista FEED (Front-end Engineering Design).Equinor y SSE comparten proyectos en Reino 
+Unido con un montante de inversión de 12.500 millones de libras hasta 2026, dentro de un plan 
+denominado Net Zero Acceleration Programme.", 
+
+__label__energiasrenovables  -> 
+"Ambas tienen en desarrollo tres importantes instalaciones en la región británica de Humber: 
+una central eléctrica con captura de carbono, una macroinstalación eléctrica alimentada al 100% 
+por hidrógeno, y uno de los mayores almacenamientos de hidrógeno del mundo."], 
+
+"etiquetasmanuales": { "huellacarbono": 0.3, "ods": 0.4, "emisiones": 0.15, "energiasrenovables": 0.15},
+"etiquetas": {"energiaeolica": 1.0, "combustibles": 0.0, "emisionvehiculos": 0.0, "consumohogares": 0.0, "huellaagricultura": 0.0, "cumbreclima": 0.0, "ods": 0.0}}
+
+
+
+
+
+{"identifier": "https://cincodias.elpais.com/cincodias/2022/07/13/companias/1657714300_694240.html", 
+"publisher": "Ediciones EL PAÍS S.L.", "date": "2022-07-14", "author": [[{"@type": "Person", "name": "Denisse Cepeda Minaya", "url": "https://cincodias.elpais.com/autor/denisse-cepeda-minaya/"}], ["Denisse Cepeda Minaya"]], 
+"headline": "Cómo evitar que el dengue o la malaria arruinen sus vacaciones", 
+"description": "Hay brotes en Sudamérica, sudeste asiático y África subsaharianaEl cambio climático eleva las patologías transmitidas por mosquitos", 
+"keywords": ["Vacaciones", "Dengue", "Virus Zika", "Malaria", "Enfermedades olvidadas", "Mosquito tigre", "Microcefalia", "Horarios trabajo", "Enfermedades tropicales", "Malformaciones congénitas", "Enfermedades genéticas", "Enfermedades infecciosas", "Virología", "Reproducción", "Epidemia", "Enfermedades", "Medicina", "Condiciones trabajo", "Fauna", "Trabajo", "Salud", "Medio ambiente", "Biología", "Ciencias naturales", "Ciencia"], 
+"sentencias": [
+
+__label__consumohogares  ->     
+"Cómo evitar que el dengue o la malaria arruinen sus vacaciones.", 
+"Llegan las vacaciones de verano y los españoles están ansiosos por viajar al extranjero tras dos 
+años de restricciones por el Covid.", 
+"Sin embargo, si su destino está fuera de la Unión Europea, conviene hacer una cita en una unidad 
+de medicina tropical y del viajero o en un centro de vacunación internacional para que le informen 
+sobre los riesgos específicos de cada país en esta temporada estival, la inmunización disponible y 
+las medidas de prevención a adoptar.", 
+"Marta Díaz, coordinadora de la unidad de medicina tropical y del viajero del Hospital Universitario 
+La Paz-Carlos III, explica que no depende tanto de la nación que se vaya a visitar, sino del tipo 
+de viaje que se vaya a hacer y del perfil del viajero.", 
+"“No es lo mismo que una persona de 20 años viaje a Tanzania a que uno diabético u obeso lo haga a 
+un país que no consideramos a priori de riesgo”.", 
+"En los últimos años se han notificado unos 500 casos anuales de paludismo en España, 5.000 en 
+EuropaLas complicaciones más frecuentes son las patologías de la piel y la diarrea, detalla Díaz, 
+cuya unidad atiende a entre 9.000 y 9.500 viajeros anuales y que prevé que se incremente a cerca de 
+10.000 el próximo año.", 
+"“En general, estamos asistiendo a un brote de enfermedades transmitidas por mosquitos debido, entre 
+otros factores, al cambio climático y a que algunos países abandonaron los programas de fumigación 
+durante la pandemia”, advierte.", 
+"Los casos de malaria y dengue son los que más están aumentando, según esta experta.", 
+"“En Latinoamérica, específicamente en Brasil, está habiendo brotes importantes de este último.", 
+"También en India y algunos sitios del sudeste asiático”, subraya.", 
+"Aunque ahora los destinos preferidos son Tanzania y Kenia, señala, por los menores requisitos Covid.", 
+"José Muñoz, investigador del Instituto de Salud Global de Barcelona, centro impulsado por la 
+Fundación La Caixa, indica que la mayoría de los casos de malaria vienen de África subsahariana.", 
+"“Es raro ver viajeros españoles que vuelven con esta enfermedad de América Latina y Asia porque ya 
+se ha controlado muy bien”, sostiene el también jefe de sección de medicina tropical del Hospital 
+Clínic de Barcelona.", 
+"Mientras que el dengue es importado, sobre todo, de América Latina y el sudeste asiático 
+(Brasil, Costa Rica, Tailandia, Indonesia), añade.", 
+"En los últimos años, en España, se han notificado unos 500 casos anuales de malaria, 5.000 en 
+Europa, apunta.", 
+"Esta dolencia, que se mantiene estable, la causa un parásito que se transmite a los humanos por 
+la picadura de un mosquito infectado.", 
+"Mientras que de dengue, que se transfiere por el Aedes aegypti, se han registrado solo en Cataluña 
+unos 150-200 casos anuales.", "“Esperamos un repunte por la relajación de las medidas en algunos 
+países y una temperatura cada vez más cálida”, augura Muñoz.", 
+"Los especialistan advierten también del virus del Nilo Occidental y de la fiebre hemorrágica de 
+Crimea-Congo, muy activos en esta época estival“La lista es larga, pero los virus como el dengue, 
+el zika o la chikungunya, que circulan en África, Asia y Sudamérica, lugares con los que España 
+tiene una especial conexión, nos deben preocupar más que otros”, avisa José Antonio Oteo, portavoz 
+de la Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica (SEIMC).También los 
+transmitidos por artrópodos vectores (dípteros y garrapatas), más activos en verano, como el del 
+Nilo Occidental o la fiebre hemorrágica de Crimea-Congo, establecidos ya en España, alerta el 
+también jefe del departamento de enfermedades infecciosas del Hospital San Pedro de La Rioja.", 
+"“Las infecciosas no conocen fronteras.", 
+
+__label__ods  ->   
+"A medida que el país está menos desarrollado, con estructuras sanitarias deficientes o pobres, 
+el riesgo aumenta”, recalca.", 
+"España ha sufrido incluso brotes autóctonos en el Mediterráneo, como el de dengue, con seis casos 
+detectados desde 2018; también de chikungunya.", 
+"El primero del Nilo Occidental, transmitido por el díptero Culex pipiens, se registró en 2010 en 
+Sevilla (dos casos); el segundo, en 2016 en la misma ciudad; el tercero (77 infectados) se extendió 
+a Cádiz y Badajoz, y el último brote se produjo en 2021, con 12 casos, pormenoriza Oteo.", 
+"La fiebre hemorrágica de Crimea-Congo, que transfieren las garrapatas, se detectó en 2010 y desde 
+entonces se han notificado 10 casos, de los que tres fallecieron, añade.", 
+
+__label__consumohogares  ->   
+"Preocúpese si tiene durante su viaje uno de estos síntomas: fiebre, dolor de cabeza, abdominal o 
+articular, manchas en la piel o diarrea.", 
+"Prepárese con antelación Los especialistas recomiendan a los turistas acudir un mes antes de su 
+viaje a un centro de vacunación internacional.", 
+"La inmunización (de pago) que se administra es para hepatitis A, fiebre amarilla, tifoidea, 
+meningitis, cólera... Para la malaria, a falta de una vacuna (está aprobada solo en niños), y si 
+va a Nigeria, con mucha prevalencia, se prescribe una profilaxis en pastillas.", 
+"En general, aconsejan usar ropa con colores claros, camiseta con mangas y pantalón largo.", 
+"Echarse repelente varias veces al día, sobre todo en la tarde-noche, cuando comienzan a salir los 
+insectos, o rociar la ropa con permetrina (insecticida).", 
+"Dormir con mosquitera.", 
+"Evitar el contacto directo con la fauna y la ingesta de alimentos crudos y fruta sin pelar.", 
+"Consumir agua embotellada.", 
+"Llevar un botiquín con analgésicos-antitérmicos o antidiarreicos, pero nunca se autoprescriba 
+antibióticos."], 
+
+"etiquetasmanuales": { "consumohogares": 0.9, "ods": 0.1 },
+"etiquetas": {"energiaeolica": 0.0, "combustibles": 0.0, "emisionvehiculos": 0.0, "consumohogares": 0.0, "huellaagricultura": 0.5714285714285714, "cumbreclima": 0.14285714285714285, "ods": 0.2857142857142857}}
+
+
+
+
+
+{"identifier": "https://cincodias.elpais.com/cincodias/2022/07/14/extras/1657811599_643642.html", 
+"publisher": "Ediciones EL PAÍS S.L.", "date": "2022-07-18", "author": {"@type": "Person"},
+"headline": "Heineken, una cerveza sin dióxido de carbono y con estilo propio", 
+"description": "La cervecera ambiciona lograr sus objetivos cinco años antes que el grupo a nivel global", 
+"keywords": ["Heineken", "Empresas", "Economía"], 
+"sentencias": [
+__label__huellacarbono  ->      
+"Heineken, una cerveza sin dióxido de carbono y con estilo propio.", 
+
+__label__consumohogares  ->  
+"La cerveza preferida de los consumidores será más sostenible.",
+
+__label__huellacarbono  ->      
+"Las empresas se preparan para adaptarse, y Heineken España lo concreta para lograr un impacto cero 
+en huella de carbono, agua y residuos y, en paralelo, un impacto positivo en la comunidad.", 
+
+__label__emisiones  ->      
+"Su plan incluye ser la primera cervecera española cero emisiones netas en producción en 2025 y 
+neutra en carbono en toda la cadena de valor en 2040.El consumidor demanda cada vez más calidad, 
+transparencia e información; cómo se elabora el producto y de dónde proviene pasa a ser fundamental.",
+
+__label__ods ->   
+"Con esa premisa, la cervecera se preocupa por el progreso y el desarrollo económico tanto del país 
+como de las comunidades en las que opera, con un enfoque transversal que va del campo al consumidor,
+en el que las alianzas público-privadas, la innovación y la transparencia son claves para lograrlo.", 
+"Su hoja de ruta incluye toda su cadena de valor, del campo al barEn el centro de la estrategia 
+están las personas, empezando por las de la propia compañía, para llegar al resto de la sociedad.", 
+"Por eso, Heineken España trabaja para fomentar la flexibilidad, la diversidad y el bienestar integral 
+de su equipo, con programas centrados en prevenir enfermedades comunes o cuidar su salud mental.",
+__label__consumohogares  ->   
+"Además, fomenta el consumo moderado de sus productos con una decidida apuesta por las variedades 
+0,0 y las de baja graduación en alcohol.", 
+
+__label__ods  ->  
+"Con los bares Heineken ayuda a la hostelería a ser más competitiva.", 
+"En los últimos dos años ha aportado 340 millones de euros para impulsar la digitalización y la 
+profesionalización del sector, ayudándolo a ser cada vez más verde.", 
+"Además, su compromiso social le llevó a crear el movimiento colaborativo #FuerzaBar al inicio de la 
+pandemia.", 
+"En bienestar mental, la compañía ha creado los programas Healthy Heineken, que buscan prevenir 
+enfermedades comunes o graves, y el proyecto Healthy Mind, donde facilitan un servicio de atención 
+psicológica las 24 horas de los 7 días de la semana.", 
+"Y la Fundación Cruzcampo, la fundación cervecera más longeva de España, canaliza el compromiso 
+social de Heineken desde hace más de 25 años.", 
+"Con 38 millones de euros de contribución social, 16.000 personas formadas en hostelería y un 95% de 
+inserción laboral para los jóvenes."], 
+
+"etiquetasmanuales": { "huellacarbono": 0.15, "ods": 0.55, "emisiones": 0.15, "consumohogares": 0.15},
+"etiquetas": {"energiaeolica": 0.75, "combustibles": 0.0, "emisionvehiculos": 0.0, "consumohogares": 0.0, "huellaagricultura": 0.0, "cumbreclima": 0.0, "ods": 0.25}}

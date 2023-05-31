@@ -104,19 +104,19 @@ def saveToFile(articles, tags, outputFileName):
         articleTags.append(tags[segment])
       def labelPercentage(label):
         return len(list(filter(lambda tag: (tag == label), articleTags)))/len(articleTags)
-      energiaeolica = labelPercentage('__label__energiaeolica')
+      energiasrenovables = labelPercentage('__label__energiasrenovables')
       combustibles = labelPercentage('__label__combustibles')
-      emisionvehiculos = labelPercentage('__label__emisionvehiculos')
+      emisiones = labelPercentage('__label__emisiones')
       consumohogares = labelPercentage('__label__consumohogares')
-      huellaagricultura = labelPercentage('__label__huellaagricultura')
+      huellacarbono = labelPercentage('__label__huellacarbono')
       cumbreclima = labelPercentage('__label__cumbreclima')
       ods = labelPercentage('__label__ods')
       article['etiquetas'] = { 
-        'energiaeolica': energiaeolica, 
+        'energiasrenovables': energiasrenovables, 
         'combustibles': combustibles,
-        'emisionvehiculos': emisionvehiculos,
+        'emisiones': emisiones,
         'consumohogares': consumohogares,
-        'huellaagricultura': huellaagricultura,
+        'huellacarbono': huellacarbono,
         'cumbreclima': cumbreclima,
         'ods': ods
         }
