@@ -5,8 +5,7 @@
 - [Introducción](#introducción)
 - [Datasets](#datasets)
 - [Requisitos previos](#requisitos-previos)
-- [Apartado 1](#apartado-1)
-- [Apartado 2](#apartado-2)
+- [Apartado 1](#apartados-1-y-2)
 - [Apartado 3](#apartado-3)
 - [Apartado 4](#apartado-4)
 - [Apartado 5](#apartado-5)
@@ -15,7 +14,7 @@
 
 
 ### Introducción
-Este es el repositorio utilizado para el almacenamiento y documentación del ejercicio de minería de textos realizado por Carmen Rendueles Martínez. Este ejercicio pertenece a la asignatura Web Semántica, del Máster en Ingeniería Web de la Universidad de Oviedo.
+Este es el repositorio utilizado para el almacenamiento y documentación del [ejercicio de minería de textos](https://docs.google.com/document/d/1thbS1u3uhpGunz6iJh-bYmNkzQ7KWumyqI9UJf0DRis/edit#) realizado por Carmen Rendueles Martínez. Este ejercicio pertenece a la asignatura Web Semántica, del Máster en Ingeniería Web de la Universidad de Oviedo.
 
 
 En los próximos apartados, se detallará primero toda la información y contexto previo a la programación y, después, se detallará el desarrollo de las diferentes partes del ejercicio y, por lo tanto, todos los archivos incluidos en este repositorio acabarán siendo detallados.
@@ -51,18 +50,41 @@ Para ello, se deberán ejecutar los siguientes comandos:
 - `pip install fasttext`
 - `pip install fasttext-wheel`
 - `pip install ndjson`
+De aquí en adelante, se supondrá que estas dependencias se encuentran instaladas.
 
-### Apartado 1
+### Apartados 1 y 2
+El código para los apartados 1 y 2 se ofrece en el archivo `segmentation.py`.
 
 
-### Apartado 2
+Para la ejecución de este archivo sólo será necesario ejecutarlo en línea de comandos con `python .\segmentation.py`. Cabe destacar, que este código por defecto se ejecuta con el dataset asignado, pero se puede ejecutar con el contrario con `python .\segmentation.py False`.
 
+
+Este archivo contiene métodos con los diferentes procesos solicitados en los apartados 1 y 2. Estos métodos son los siguientes:
+- `loadDataset`: Este método carga el dataset solicitado a memoria.
+- `removeDuplications`: Este método busca y elimina artículos cuasiduplicados, utilizando para ello SimHash.
+- `segmentate`: Este método procesa un listado de textos y realiza las siguientes acciones:
+    - Segmenta la noticia en sentencias usando spaCy.
+    - Une esas sentencias en un único texto separando las sentencias con `\n\n`.
+    - Usa TextTiling sobre el texto obtenido para obtener segmentos temáticamente coherentes.
+    - Añade todos los segmentos a una lista única.
+- `saveToFile`: Por último, este método guarda el resultado en un archivo, en este caso, al trabajar con textos negacionistas, llamado `negacionistaSegmentationOutput.json`. Este archivo se puede obtener ejecutando el programa pero se ofrece ya en el repositorio.
 
 ### Apartado 3
+El código relativo al apartado 3 se ofrece en el archivo `clustering.py`.
 
+
+En este archivo se lee el resultado de los apartados anteriores y, a partir de esta lista de segmentos, se vectorizan y se aplica el algoritmo de clusterización K-means con 50 clusters. Después, se procesa el resultado y se guarda en un nuevo archivo, llamado `clusteringOutput.txt`.
+
+
+Para la ejecución de este archivo sólo será necesario ejecutarlo en línea de comandos con `python .\clustering.py`. 
+
+*¡IMPORTANTE!* el resultado cambia en cada ejecución y, por lo tanto, es importante tener cuidado para no sobreescribir los resultados que se deseen conservar.
 
 ### Apartado 4
+Este apartado, no incluye código al requerir únicamente un proceso manual. 
 
+
+El resultado de este ejercicio se ofrece en el archivo `clusteringOutput-selection.txt`. Este archivo contiene la selección de los 7 clústers que aparentaban más interesantes de los generados tras la ejecución del apartado anterior. A cada uno de estos clusters se les asigna una etiqueta que parezca agregar adecuadamente las palabras ofrecidas por el clúster.
 
 ### Apartado 5
 
