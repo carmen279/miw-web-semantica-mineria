@@ -37,7 +37,8 @@ Para aplicar esta separación, cuando se carga el dataset, se hace una comprobac
 
 
 ### Requisitos previos
-Para poder ejecutar todos los archivos sin problemas, se deberán instalar y descargar una serie de librerías y colecciones de datos.
+Para poder ejecutar el código ofrecido en este repositorio, se requiere tener python instalado en el equipo.
+Además, para poder ejecutar todos los archivos sin problemas, se deberán instalar y descargar una serie de librerías y colecciones de datos.
 Para ello, se deberán ejecutar los siguientes comandos:
 - `pip install simhash`
 - `pip install spacy`
