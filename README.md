@@ -14,7 +14,7 @@
 
 
 ### Introducción
-Este es el repositorio utilizado para el almacenamiento y documentación del [ejercicio de minería de textos](https://docs.google.com/document/d/1thbS1u3uhpGunz6iJh-bYmNkzQ7KWumyqI9UJf0DRis/edit#) realizado por Carmen Rendueles Martínez. Este ejercicio pertenece a la asignatura Web Semántica, del Máster en Ingeniería Web de la Universidad de Oviedo.
+Este es el [repositorio público](https://github.com/carmen279/miw-web-semantica-mineria) utilizado para el almacenamiento y documentación del [ejercicio de minería de textos](https://docs.google.com/document/d/1thbS1u3uhpGunz6iJh-bYmNkzQ7KWumyqI9UJf0DRis/edit#) realizado por Carmen Rendueles Martínez. Este ejercicio pertenece a la asignatura Web Semántica, del Máster en Ingeniería Web de la Universidad de Oviedo.
 
 
 En los próximos apartados, se detallará primero toda la información y contexto previo a la programación y, después, se detallará el desarrollo de las diferentes partes del ejercicio y, por lo tanto, todos los archivos incluidos en este repositorio acabarán siendo detallados.
