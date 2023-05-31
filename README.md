@@ -1,10 +1,17 @@
 # Ejercicio de minería de textos - Web Semántica - MIW - Curso 2022/23
 ## Autora: Carmen Rendueles Martínez - UO269689
 
-*Contenidos*
-- [Introducción](#introduccion)
+*Contenidos*:
+- [Introducción](#introducción)
 - [Datasets](#datasets)
 - [Requisitos previos](#requisitos-previos)
+- [Apartado 1](#apartado-1)
+- [Apartado 2](#apartado-2)
+- [Apartado 3](#apartado-3)
+- [Apartado 4](#apartado-4)
+- [Apartado 5](#apartado-5)
+- [Apartado 6](#apartado-6)
+- [Apartados 7 y 8](#apartados-7-y-8)
 
 
 ### Introducción
@@ -44,3 +51,23 @@ Para ello, se deberán ejecutar los siguientes comandos:
 - `pip install fasttext`
 - `pip install fasttext-wheel`
 - `pip install ndjson`
+
+### Apartado 1
+
+
+### Apartado 2
+
+
+### Apartado 3
+
+
+### Apartado 4
+
+
+### Apartado 5
+
+
+### Apartado 6
+
+
+### Apartados 7 y 8
