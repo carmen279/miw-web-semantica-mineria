@@ -5,7 +5,7 @@
 - [Introducción](#introducción)
 - [Datasets](#datasets)
 - [Requisitos previos](#requisitos-previos)
-- [Apartado 1](#apartados-1-y-2)
+- [Apartados 1 y 2](#apartados-1-y-2)
 - [Apartado 3](#apartado-3)
 - [Apartado 4](#apartado-4)
 - [Apartado 5](#apartado-5)
@@ -87,9 +87,21 @@ Este apartado, no incluye código al requerir únicamente un proceso manual.
 El resultado de este ejercicio se ofrece en el archivo `clusteringOutput-selection.txt`. Este archivo contiene la selección de los 7 clústers que aparentaban más interesantes de los generados tras la ejecución del apartado anterior. A cada uno de estos clusters se les asigna una etiqueta que parezca agregar adecuadamente las palabras ofrecidas por el clúster.
 
 ### Apartado 5
-
+Para este apartado, se han creado 2 archivos, uno para el entrenamiento (`training.txt`) y otro para el test (`test.txt`) de un clasificador.
+Para mantener la proporción de 80% de entrenamiento y 20% de test, de los 5 documentos elegidos como representativos por cada cluster, se han incluído 4 de ellos en el archivo de entrenamiento y el último en el de test. Todos ellos indicados con la etiqueta de su cluster correspondiente. Teniendo las siguientes etiquetas:
+- `__label__energiasrenovables`
+- `__label__combustibles`
+- `__label__emisiones`
+- `__label__consumohogares`
+- `__label__huellacarbono`
+- `__label__cumbreclima`
+- `__label__ods`
 
 ### Apartado 6
+Para la realización de este apartado, se ofrece el archivo de código `clasificador.py`.
+Para la ejecución de este archivo sólo será necesario ejecutarlo en línea de comandos con `python .\clasificador.py`.
 
+
+En este código se entrena un modelo con los archivos generados en el apartado anterior y este modelo se guarda en el archivo binario `clasificador.bin`. Además, para evaluar sus resultados, se imprime por pantalla la 'Accuracy' del modelo. Este valor se encuentra alrededor de 0.428. Valor que no es demasiado bueno, ya que indica que acertaría menos de la mitad de las clasificaciones, pero que, teniendo en cuenta la baja cantidad de documentos de la colección utilizada para conseguir los clusters y la poca cantidad de entrenamiento del modelo, resulta un valor relativamente bueno. 
 
 ### Apartados 7 y 8
